@@ -14,3 +14,4 @@ appsettings.json
 
 # Logs e arquivos gerados automaticamente
 *.log
+*.idea
